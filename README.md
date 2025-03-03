@@ -1,64 +1,71 @@
-# Football Data Analysis: From FIFA 15 to EA FC 24
+# ⚽ Football Data Analysis: From FIFA 15 to EA FC 24  
 
-## Links
+## 🔗 Links  
 
-- [**Jupyter nbviewer**](https://nbviewer.org/github/miweb0/EAFC_24_Data_Analysis_End-to-End_Project/blob/main/EAFC24_End2End_Project.ipynb): Notebook viewer (GitHub does not read Plotly)
-- [**Tableau Dashboard**](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1): Interactive visualizations
-- [**Project Portfolio**](https://www.datascienceportfol.io/migueltello): Portfolio web
+### [![📘](https://img.shields.io/badge/Jupyter-nbviewer-orange?logo=Jupyter)](https://nbviewer.org/github/miweb0/EAFC_24_Data_Analysis_End-to-End_Project/blob/main/EAFC24_End2End_Project.ipynb) → Notebook viewer  
+### [![📊](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1) → Interactive visualizations  
+### [![📁](https://img.shields.io/badge/Web-Portfolio-purple?)](https://www.datascienceportfol.io/migueltello) → Portfolio web
 
-![EA FC 24 Cover](EAFC-24_cover.png)
+![EA FC 24 Cover](EAFC-24_cover.png)  
 
-## Introduction
+## 🏆 Introduction  
 
-Football (soccer) has been a lifelong passion of mine. Since childhood, I've been deeply engaged in the sport, not just as a fan but also as a keen learner of its tactical nuances. This project represents the fusion of that passion with my growing interest in data analysis. Using a database that I grew up with, I aimed to apply modern data analytics techniques that could be adapted for use in real-world football scouting. My goal is to one day work as a Data Analyst in a football scouting team.
+Football (soccer) has been a **lifelong passion** of mine. Since childhood, I've been deeply engaged in the sport, not just as a fan but also as a keen learner of its **tactical nuances**. This project represents the **fusion of that passion with data analytics**, leveraging a **database I grew up with** to apply modern **data-driven techniques**. My ultimate goal? To work as a **Data Analyst in a football scouting team**.  
 
-In this project, I conducted an end-to-end analysis of football player data from FIFA 15 to EA FC 24. The aim was to scrub the data, perform exploratory data analysis, develop predictive models, and interpret the findings. These insights can help both FIFA gamers and professional scouts make informed decisions when selecting players based on attributes like price, quality, and potential.
+In this end-to-end analysis, I explored **football player data from FIFA 15 to EA FC 24**. The objective was to:  
+✅ **Scrub** the data 📊  
+✅ **Perform exploratory data analysis (EDA)** 🔍  
+✅ **Develop predictive models** 🧠  
+✅ **Interpret findings for real-world football scouting** 🎯  
 
-## Project Outline
+These insights can benefit both **gamers and professional scouts** in making data-backed player selections based on **price, quality, and potential**.  
 
-1. **Data Scrubbing**
-   - Cleaning and preparing the dataset to ensure accuracy and reliability.
-   
-2. **Exploratory Data Analysis (EDA)**
-   - Exploring the data to uncover key trends, patterns, and relationships.
+## 📌 Project Outline  
 
-3. **Modelling**
-   - Building predictive models to identify players with high potential and value.
+### 1️⃣ **🧹 Data Scrubbing**  
+- Cleaning and preparing the dataset to ensure accuracy and reliability.  
 
-4. **Interpretation**
-   - Analyzing the model results and deriving actionable insights for player scouting and selection.
+### 2️⃣ **📊 Exploratory Data Analysis (EDA)**  
+- Identifying **key trends, patterns, and relationships** in player data.  
 
-5. **Tableau Dashboard**
-   - Creating interactive visualizations to further explore the data and share insights.
+### 3️⃣ **📈 Predictive Modelling**  
+- Building **machine learning models** to predict player potential and market value.  
 
-6. **Conclusion**
-   - Summarizing the findings and reflecting on the skills gained through the project.
+### 4️⃣ **📉 Interpretation & Insights**  
+- Analyzing model results to extract **actionable recommendations** for scouting.  
 
-## Bibliography
+### 5️⃣ **📊 Tableau Dashboard**  
+- Creating **interactive visualizations** to enhance the analysis experience.  
 
-### Python Libraries Used:
-- **pandas**: For data manipulation and analysis.
-- **numpy**: For numerical operations and data manipulation.
-- **plotly**: For creating interactive visualizations.
-- **scikit-learn**: For data preprocessing and machine learning tasks.
-- **scipy**: For additional statistical and optimization functions.
+### 6️⃣ **📢 Conclusion**  
+- Reflecting on insights gained and their **real-world applications**.  
 
-### Data Source:
-- The data used in this analysis is sourced from the EA FC 24 player database.
+## 📚 Bibliography  
 
-## Tableau Dashboard
+### 🐍 Python Libraries Used:  
+- **pandas** → Data manipulation & analysis.  
+- **numpy** → Numerical computing.  
+- **plotly** → Interactive visualizations.  
+- **scikit-learn** → Machine learning models & data preprocessing.  
+- **scipy** → Statistical & optimization functions.  
 
-Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1). The dashboard includes various charts from this project and an interactive map where you can choose different metrics to evaluate. All charts are interconnected, enhancing the user experience.
+### 📊 Data Source:  
+- The dataset used in this analysis is sourced from the **EA FC 24 Player Database**.  
 
-## Conclusion
+## 📊 Tableau Dashboard  
 
-This project has been an exciting journey where I was able to blend my newfound interest in data analysis with my deep-rooted passion for football. By working with a dataset spanning FIFA 15 to EA FC 24, I was able to scrub, explore, model, and interpret player data in a way that applies to in-game decision-making and real-world scouting.
+Explore the interactive dashboard on **[Tableau Public](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1)**.  
 
-Throughout this project, I have:
+🔹 Includes **various charts and an interactive map** where users can select different metrics.  
+🔹 All charts are **interconnected**, enhancing the user experience.  
 
-- **Scrubbed the data**: Ensured the dataset was clean and reliable for analysis.
-- **Explored the data**: Conducted exploratory data analysis to find key insights and patterns.
-- **Modelled the data**: Built predictive models to identify players with high potential and value.
-- **Interpreted the results**: Drew actionable conclusions that could benefit both FIFA gamers and professional scouts.
+## 🏁 Conclusion  
 
-This project has deepened my understanding of how data can be leveraged to make informed decisions in football, and I am eager to apply these techniques in real-world scenarios. As I continue to develop my skills, I look forward to contributing to the dynamic field of football analytics and working toward my goal of becoming a data analyst in a football scouting team.
+This project has been an **exciting journey**, blending my **newfound expertise in data analysis** with my **lifelong passion for football**. By working with **data spanning FIFA 15 to EA FC 24**, I was able to:  
+
+✔ **Clean & structure the data** for reliable insights.  
+✔ **Explore & analyze key trends** in player attributes.  
+✔ **Build predictive models** for scouting & market evaluation.  
+✔ **Develop interactive dashboards** for enhanced visual storytelling.  
+
+⚽ **Key Takeaway:** This project has reinforced the **power of data-driven decision-making in football scouting**. I look forward to further refining these techniques and applying them in **real-world football analytics**.  
